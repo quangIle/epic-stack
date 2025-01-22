@@ -10,7 +10,7 @@
   "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
   "type": "module",
   "imports": {
-    "#app/*": "./app/*",
+    "#app/*": "./app/",
     "#tests/*": "./tests/*"
   },
   "scripts": {
